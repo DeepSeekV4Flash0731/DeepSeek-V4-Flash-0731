@@ -1,0 +1,3 @@
+# rev-a7b31e-20260827
+v1.2
+Flash 0731 loader, ollama reconnect.
